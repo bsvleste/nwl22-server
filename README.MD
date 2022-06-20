@@ -1,0 +1,1 @@
+npx prisma studio para abrir terminal do studio para visualizar os dados
